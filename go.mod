@@ -9,7 +9,3 @@ require (
 	github.com/rabbitmq/amqp091-go v1.10.0
 )
 
-replace (
-	github.com/go-anyway/framework-log => ../core/log
-	github.com/go-anyway/framework-trace => ../trace
-)

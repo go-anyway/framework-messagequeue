@@ -1,0 +1,4 @@
+github.com/IBM/sarama v1.46.3/go.mod h1:GTUYiF9DMOZVe3FwyGT+dtSPceGFIgA+sPc5u6CBwko=
+github.com/go-anyway/framework-log v1.0.0/go.mod h1:cyD0P8YrmkmjVpiurV+cf8ieRXjJAo0AuPZ9GCmh4B8=
+github.com/go-anyway/framework-trace v1.0.0/go.mod h1:/tuFEKpXTdbHVgtXNw6rX0M5FNy6C6yCA6xZH51dn7U=
+github.com/rabbitmq/amqp091-go v1.10.0/go.mod h1:Hy4jKW5kQART1u+JkDTF9YYOQUHXqMuhrgxOEeS7G4o=
